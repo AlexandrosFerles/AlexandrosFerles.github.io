@@ -1,5 +1,5 @@
 ---
-title: "DD2437 Artificial Neural Networks and Deep Architectures"
+title: "DD2437 Artificial Neural Networks and Deep Architecture"
 collection: teaching
 type: "Post Graduate course"
 link: https://www.kth.se/student/kurser/kurs/DD2437?l=en
