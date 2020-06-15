@@ -3,7 +3,6 @@ title: "Distributed Online Learning of Event Definitions"
 excerpt: "M.Eng Diploma Thesis, School of Electrical and Computer Engineering, National Technical University of Athens, 2017"
 collection: portfolio
 ---
-****Abstract****
 
 Complex Event Recognition is a scientific research area in Machine Learning. The purpose of a complex event recognition system is to combine known low-level events with complexevent definitions in order to recognize hih-level events that occur in certain time points. Online Learning of Event Definitions (OLED) is an Incremental Logic Programming (ILP) system for learning Event Calculus theories in an Online manner. The scope of this thesis is the development of a distributed online learning system. The design of this system is based on the OLED system. In order to achieve a distributed algorithm, we deploy the Actor-model, which is an inconcurrent model of distributed processing that mainly operates by exchanging messages between active computing threads. We present the Distributed Online Learning of Event Definitions system, which achieves distributed learning of rules by using disjoint subsets of a dataset which are allocated to a number of computing threads. The DOLED system is presented in two distinct models, the Global-Lock Model and the Streaming Model.
 
