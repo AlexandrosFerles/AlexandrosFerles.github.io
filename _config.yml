@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexandros Ferles"
-  avatar           : "files/images/ferles-min.jpg"
+  avatar           : "images/ferles-min.jpg"
   bio              : "Deep Learning Research Engineer @ KTH Royal Institute of Technology"
   location         : "Stockholm, Sweden"
   employer         :
