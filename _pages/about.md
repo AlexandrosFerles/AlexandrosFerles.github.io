@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Test Text 
+Welcome to my personal page!
+
