@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-05-21
 venue: 'RESCIENCE C'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://rescience.github.io/bibliography/Ferles_2020.html'
 citation: 'Ferles, A., Nöu, A., and Valavanis, L. (2020). &quot;\[Re\] Zero-Shot Knowledge Transfer via Adversarial Belief Matching.&quot; <i>RESCIENCE C</i>. 6(2).'
 ---
 
