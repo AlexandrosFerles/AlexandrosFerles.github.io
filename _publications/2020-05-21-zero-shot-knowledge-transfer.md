@@ -1,8 +1,8 @@
 ---
 title: "\[Re\] Zero-Shot Knowledge Transfer via Adversarial Belief Matching"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2020-05-21-rescience
+excerpt: ''
 date: 2020-05-21
 venue: 'RESCIENCE C'
 paperurl: 'http://rescience.github.io/bibliography/Ferles_2020.html'
