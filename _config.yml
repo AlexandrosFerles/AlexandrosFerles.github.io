@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Alexandros Ferles"
   avatar           : "files/images/ferles-min.jpg"
-  bio              : ""
+  bio              : "Deep Learning Research Engineer @ KTH Royal Institute of Technology"
   location         : "Stockholm, Sweden"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CQLRcaEAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
