@@ -4,6 +4,6 @@ collection: teaching
 type: "Teaching Assistant, Post Graduate course"
 link: https://www.kth.se/student/kurser/kurs/DT2119?l=en
 venue: "KTH Royal Institute of Technology"
-date: Spring 2019, Spring 2020
-location: "Stockholm, Swedem"
+date: 2020
+location: "Stockholm, Sweden"
 ---
