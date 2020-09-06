@@ -7,3 +7,11 @@ venue: "KTH Royal Institute of Technology"
 date: "2019, 2020"
 location: "Stockholm, Sweden"
 ---
+title: "DD2412 Adavcned Deep Learning"
+collection: teaching
+type: "Teaching Assistant, Post Graduate course"
+link: https://www.kth.se/student/kurser/kurs/DD2412?l=en
+venue: "KTH Royal Institute of Technology"
+date: "2020"
+location: "Stockholm, Sweden"
+---
